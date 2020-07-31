@@ -6,9 +6,7 @@ gh = Github(environ["GITHUB_TOKEN"])
 
 with open("README.md", "w") as readme:
     readme.write(
-        """# some recent stars
-
-🌟🌟🌟
+        """# 🌟🌟🌟🌟🌟
 
 """
     )
