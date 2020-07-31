@@ -14,7 +14,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
 
       - name: Set up Python 3.8
         uses: actions/setup-python@v2
@@ -27,11 +28,14 @@ jobs:
           pip install pipenv
           pipenv install --dev
 
-      - name: Lint with flake8
+      - name: Run readme updater
         run: |
           pipenv run python run.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - run: |
+      - name: Push updated readme
+        run: |
           date > generated.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
