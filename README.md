@@ -1,6 +1,6 @@
 # 🌟🌟🌟🌟🌟
 
-These are my most recent stars, [updated daily](.github/workflows/readme.yml).
+These are my most recent stars, [updated daily](https://github.com/adamcstephens/adamcstephens/blob/master/.github/workflows/readme.yml).
 
 * [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew)
 * [nlamirault/speedtest_exporter](https://github.com/nlamirault/speedtest_exporter)
@@ -8,4 +8,4 @@ These are my most recent stars, [updated daily](.github/workflows/readme.yml).
 * [nstehr/bobcaygeon](https://github.com/nstehr/bobcaygeon)
 * [goreleaser/nfpm](https://github.com/goreleaser/nfpm)
 
-Last updated: 2020-07-31T02:53:48.280877
+Last updated: 2020-07-31T02:56:01.071220
