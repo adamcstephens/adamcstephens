@@ -8,7 +8,7 @@ with open("README.md", "w") as readme:
     readme.write(
         """# 🌟🌟🌟🌟🌟
 
-These are my most recent stars, [updated daily](.github/workflows/readme.yml).
+These are my most recent stars, [updated daily](https://github.com/adamcstephens/adamcstephens/blob/master/.github/workflows/readme.yml).
 
 """
     )
