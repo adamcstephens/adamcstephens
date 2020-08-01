@@ -39,4 +39,4 @@ jobs:
           git config user.email github-actions@github.com
           git add .
           git commit -m "action generated commit"
-          git push
+          git push origin HEAD:${{ env.GITHUB_REF }}
