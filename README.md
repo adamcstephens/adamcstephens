@@ -1,9 +1,9 @@
 These are my most recent 🌟🌟🌟🌟🌟
 
-* [johnboiles/obs-mac-virtualcam](https://github.com/johnboiles/obs-mac-virtualcam)
-* [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew)
-* [nlamirault/speedtest_exporter](https://github.com/nlamirault/speedtest_exporter)
-* [philippe44/AirConnect](https://github.com/philippe44/AirConnect)
-* [nstehr/bobcaygeon](https://github.com/nstehr/bobcaygeon)
+* [gecgooden/wemo-prometheus-exporter](https://github.com/gecgooden/wemo-prometheus-exporter)
+* [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything)
+* [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+* [willmcgugan/rich](https://github.com/willmcgugan/rich)
+* [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey)
 
-Last updated: 2020-08-06T03:07:56.289744
+Last updated: 2020-08-07T03:08:05.688391
