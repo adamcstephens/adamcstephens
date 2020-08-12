@@ -1,9 +1,9 @@
 These are my most recent 🌟🌟🌟🌟🌟
 
+* [laurent22/joplin](https://github.com/laurent22/joplin)
+* [voraciousdev/octo](https://github.com/voraciousdev/octo)
 * [Rafostar/cast-to-tv-desktop-addon](https://github.com/Rafostar/cast-to-tv-desktop-addon)
 * [knsd/ping-exporter](https://github.com/knsd/ping-exporter)
 * [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop)
-* [gecgooden/wemo-prometheus-exporter](https://github.com/gecgooden/wemo-prometheus-exporter)
-* [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything)
 
-Last updated: 2020-08-11T03:07:55.786894
+Last updated: 2020-08-12T03:08:30.602605
