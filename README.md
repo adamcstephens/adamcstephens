@@ -1,9 +1,9 @@
 These are my most recent 🌟🌟🌟🌟🌟
 
-* [jaysoffian/eap_proxy](https://github.com/jaysoffian/eap_proxy)
-* [OSInside/kiwi](https://github.com/OSInside/kiwi)
-* [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)
-* [vector-im/hydrogen-web](https://github.com/vector-im/hydrogen-web)
-* [mirukana/mirage](https://github.com/mirukana/mirage)
+* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+* [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go)
+* [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+* [trekhleb/learn-python](https://github.com/trekhleb/learn-python)
+* [makepad/makepad](https://github.com/makepad/makepad)
 
-Last updated: 2020-08-29T03:06:10.956864
+Last updated: 2020-08-30T03:08:02.667143
