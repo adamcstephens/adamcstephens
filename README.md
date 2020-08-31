@@ -1,9 +1,9 @@
 These are my most recent 🌟🌟🌟🌟🌟
 
-* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-* [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go)
-* [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
-* [trekhleb/learn-python](https://github.com/trekhleb/learn-python)
-* [makepad/makepad](https://github.com/makepad/makepad)
+* [localForage/localForage](https://github.com/localForage/localForage)
+* [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui)
+* [framework7io/framework7](https://github.com/framework7io/framework7)
+* [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy)
+* [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js)
 
-Last updated: 2020-08-30T03:08:02.667143
+Last updated: 2020-08-31T03:05:31.385026
