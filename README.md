@@ -1,9 +1,9 @@
 These are my most recent 🌟🌟🌟🌟🌟
 
+* [frebib/nzbget-exporter](https://github.com/frebib/nzbget-exporter)
+* [Mastermindzh/tidal-hifi](https://github.com/Mastermindzh/tidal-hifi)
 * [jeelabs/esp-link](https://github.com/jeelabs/esp-link)
 * [openTIDAL/docTIDAL](https://github.com/openTIDAL/docTIDAL)
 * [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)
-* [ww24/lirc-web-api](https://github.com/ww24/lirc-web-api)
-* [xperimental/nextcloud-exporter](https://github.com/xperimental/nextcloud-exporter)
 
-Last updated: 2020-11-05T03:08:38.935911
+Last updated: 2020-11-06T03:08:39.932127
