@@ -1,9 +1,9 @@
 These are my most recent 🌟🌟🌟🌟🌟
 
+* [rustyshackleford36/locatarr](https://github.com/rustyshackleford36/locatarr)
+* [tulir/mautrix-go](https://github.com/tulir/mautrix-go)
 * [jboero/nomadinit](https://github.com/jboero/nomadinit)
 * [frebib/nzbget-exporter](https://github.com/frebib/nzbget-exporter)
 * [Mastermindzh/tidal-hifi](https://github.com/Mastermindzh/tidal-hifi)
-* [jeelabs/esp-link](https://github.com/jeelabs/esp-link)
-* [openTIDAL/docTIDAL](https://github.com/openTIDAL/docTIDAL)
 
-Last updated: 2020-11-10T03:09:37.829785
+Last updated: 2020-11-11T03:08:12.314378
