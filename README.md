@@ -1,9 +1,9 @@
 These are my most recent 🌟🌟🌟🌟🌟
 
+* [city41/mate-i3-applet](https://github.com/city41/mate-i3-applet)
+* [osohq/oso](https://github.com/osohq/oso)
+* [davatorium/rofi](https://github.com/davatorium/rofi)
+* [noxrepo/pox](https://github.com/noxrepo/pox)
 * [britannic/blacklist](https://github.com/britannic/blacklist)
-* [nektos/act](https://github.com/nektos/act)
-* [FRRouting/frr](https://github.com/FRRouting/frr)
-* [haimgel/display-switch](https://github.com/haimgel/display-switch)
-* [opencomputeproject/OpenNetworkLinux](https://github.com/opencomputeproject/OpenNetworkLinux)
 
-Last updated: 2020-12-16T03:12:12.713402
+Last updated: 2020-12-17T03:12:09.236746
