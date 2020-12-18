@@ -1,9 +1,9 @@
 These are my most recent 🌟🌟🌟🌟🌟
 
-* [city41/mate-i3-applet](https://github.com/city41/mate-i3-applet)
-* [osohq/oso](https://github.com/osohq/oso)
-* [davatorium/rofi](https://github.com/davatorium/rofi)
-* [noxrepo/pox](https://github.com/noxrepo/pox)
-* [britannic/blacklist](https://github.com/britannic/blacklist)
+* [vollero/openCAPWAP](https://github.com/vollero/openCAPWAP)
+* [kelseyhightower/confd](https://github.com/kelseyhightower/confd)
+* [faucetsdn/ryu](https://github.com/faucetsdn/ryu)
+* [VarunDelft/SDN-RYU-VLAN](https://github.com/VarunDelft/SDN-RYU-VLAN)
+* [libthinkpad/dockd](https://github.com/libthinkpad/dockd)
 
-Last updated: 2020-12-17T03:12:09.236746
+Last updated: 2020-12-18T03:15:01.030991
