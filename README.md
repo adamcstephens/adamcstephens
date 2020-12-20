@@ -1,9 +1,9 @@
 These are my most recent 🌟🌟🌟🌟🌟
 
+* [francma/wob](https://github.com/francma/wob)
+* [mikn/wofi](https://github.com/mikn/wofi)
+* [openSUSE/openSUSEway](https://github.com/openSUSE/openSUSEway)
 * [vollero/openCAPWAP](https://github.com/vollero/openCAPWAP)
 * [kelseyhightower/confd](https://github.com/kelseyhightower/confd)
-* [faucetsdn/ryu](https://github.com/faucetsdn/ryu)
-* [VarunDelft/SDN-RYU-VLAN](https://github.com/VarunDelft/SDN-RYU-VLAN)
-* [libthinkpad/dockd](https://github.com/libthinkpad/dockd)
 
-Last updated: 2020-12-19T03:14:53.281877
+Last updated: 2020-12-20T03:13:14.007753
