@@ -1,9 +1,9 @@
 These are my most recent 🌟🌟🌟🌟🌟
 
-* [francma/wob](https://github.com/francma/wob)
-* [mikn/wofi](https://github.com/mikn/wofi)
-* [openSUSE/openSUSEway](https://github.com/openSUSE/openSUSEway)
-* [vollero/openCAPWAP](https://github.com/vollero/openCAPWAP)
-* [kelseyhightower/confd](https://github.com/kelseyhightower/confd)
+* [tvrzna/emptty](https://github.com/tvrzna/emptty)
+* [haikarainen/light](https://github.com/haikarainen/light)
+* [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc)
+* [eBay/go-ovn](https://github.com/eBay/go-ovn)
+* [skydive-project/skydive](https://github.com/skydive-project/skydive)
 
-Last updated: 2020-12-22T03:21:35.351706
+Last updated: 2020-12-23T03:22:48.192659
