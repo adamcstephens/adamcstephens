@@ -1,9 +1,9 @@
 These are my most recent 🌟🌟🌟🌟🌟
 
+* [SUSE/open-build-service-connector](https://github.com/SUSE/open-build-service-connector)
+* [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint)
 * [tvrzna/emptty](https://github.com/tvrzna/emptty)
 * [haikarainen/light](https://github.com/haikarainen/light)
 * [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc)
-* [eBay/go-ovn](https://github.com/eBay/go-ovn)
-* [skydive-project/skydive](https://github.com/skydive-project/skydive)
 
-Last updated: 2020-12-23T03:22:48.192659
+Last updated: 2020-12-24T03:24:46.887996
