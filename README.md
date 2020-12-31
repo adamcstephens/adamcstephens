@@ -1,9 +1,9 @@
 These are my most recent 🌟🌟🌟🌟🌟
 
+* [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+* [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator)
 * [witten/borgmatic](https://github.com/witten/borgmatic)
 * [jarun/buku](https://github.com/jarun/buku)
 * [Kovah/LinkAce](https://github.com/Kovah/LinkAce)
-* [apenella/go-ansible](https://github.com/apenella/go-ansible)
-* [Mellanox/mstflint](https://github.com/Mellanox/mstflint)
 
-Last updated: 2020-12-30T03:24:26.990326
+Last updated: 2020-12-31T03:26:45.382838
