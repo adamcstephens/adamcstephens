@@ -1,9 +1,9 @@
 These are my most recent 🌟🌟🌟🌟🌟
 
+* [artichoke/artichoke](https://github.com/artichoke/artichoke)
+* [photoprism/photoprism](https://github.com/photoprism/photoprism)
+* [alainm23/planner](https://github.com/alainm23/planner)
 * [mirceaulinic/salt-sproxy](https://github.com/mirceaulinic/salt-sproxy)
 * [wez/wezterm](https://github.com/wez/wezterm)
-* [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
-* [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator)
-* [witten/borgmatic](https://github.com/witten/borgmatic)
 
-Last updated: 2021-01-01T03:26:02.440471
+Last updated: 2021-01-02T03:25:43.593523
