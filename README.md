@@ -1,9 +1,9 @@
 These are my most recent 🌟🌟🌟🌟🌟
 
+* [johnbellone/salt-tailscale](https://github.com/johnbellone/salt-tailscale)
+* [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
 * [scottyhardy/docker-remote-desktop](https://github.com/scottyhardy/docker-remote-desktop)
 * [randsleadershipslack/employer-test](https://github.com/randsleadershipslack/employer-test)
 * [robcowart/elastiflow](https://github.com/robcowart/elastiflow)
-* [thkukuk/kubic-control](https://github.com/thkukuk/kubic-control)
-* [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 
-Last updated: 2021-01-10T03:42:50.302311
+Last updated: 2021-01-11T03:42:41.078224
