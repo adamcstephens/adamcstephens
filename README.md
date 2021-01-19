@@ -1,9 +1,9 @@
 These are my most recent 🌟🌟🌟🌟🌟
 
+* [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
+* [profclems/glab](https://github.com/profclems/glab)
+* [felixge/go-profiler-notes](https://github.com/felixge/go-profiler-notes)
+* [google/periph](https://github.com/google/periph)
 * [thought-machine/please](https://github.com/thought-machine/please)
-* [cloudskiff/driftctl](https://github.com/cloudskiff/driftctl)
-* [ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo)
-* [altdesktop/i3ipc-python](https://github.com/altdesktop/i3ipc-python)
-* [saltstack/salt](https://github.com/saltstack/salt)
 
-Last updated: 2021-01-18T03:56:18.033375
+Last updated: 2021-01-19T03:59:05.111715
