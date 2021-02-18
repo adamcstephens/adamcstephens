@@ -1,9 +1,9 @@
 These are my most recent 🌟🌟🌟🌟🌟
 
+* [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center)
+* [thelounge/thelounge](https://github.com/thelounge/thelounge)
+* [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy)
+* [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland)
 * [Biont/sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop)
-* [sunng87/cargo-release](https://github.com/sunng87/cargo-release)
-* [kaleidawave/prism](https://github.com/kaleidawave/prism)
-* [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-* [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed)
 
-Last updated: 2021-02-17T03:11:50.370814
+Last updated: 2021-02-18T03:11:22.949647
