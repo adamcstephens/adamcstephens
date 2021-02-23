@@ -1,9 +1,9 @@
 These are my most recent 🌟🌟🌟🌟🌟
 
+* [liamg/traitor](https://github.com/liamg/traitor)
+* [InvoicePlane/InvoicePlane](https://github.com/InvoicePlane/InvoicePlane)
 * [pgaskin/repogen](https://github.com/pgaskin/repogen)
 * [iwleonards/extract-mfg](https://github.com/iwleonards/extract-mfg)
 * [hatifnatt/consul-formula](https://github.com/hatifnatt/consul-formula)
-* [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center)
-* [thelounge/thelounge](https://github.com/thelounge/thelounge)
 
-Last updated: 2021-02-22T03:11:56.552884
+Last updated: 2021-02-23T03:12:00.174863
